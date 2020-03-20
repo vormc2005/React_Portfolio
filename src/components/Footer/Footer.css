@@ -1,0 +1,22 @@
+
+ .footer {
+    position: sticky;
+    margin-top: 150px;
+    width: 100%;
+    bottom: 0; /* stick to bottom */
+    /* position: -ms-page; */
+    /* border: 1px solid black; */
+    height: 100px;
+    color: white;
+    background: #333333;
+
+    text-align: center;
+    border-top: 8px solid rgb(126, 146, 190);
+ 
+
+  }
+
+  .contactbuttons{
+    margin-top: 20px;
+  }
+  
