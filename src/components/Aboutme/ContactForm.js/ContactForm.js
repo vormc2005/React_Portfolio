@@ -33,7 +33,6 @@ function ContactForm() {
       <textarea name="message" class="form-control" rows="3" id="inquirytext"></textarea>
     
     <br /> 
-
     <button type="submit" id="submitinfo" class="btn btn-primary">Send</button>
   </form>
   </div>

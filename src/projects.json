@@ -2,9 +2,9 @@
     {
       "id": 1,
       "name": "Password Generator",
-      "image": "/Images/passwordgen.png",
+      "image": "/Images/pasword.gif",
       "technology": "Javascript, HTML, CSS",
-      "Link":"https://vormc2005.github.io/Homework3/",
+      "Link":"https://vormc2005.github.io/Password_Generator/",
       "description": "This App generates password between 8-128 characters long"
     },
 
@@ -19,7 +19,7 @@
       {
         "id": 3,
         "name": "Daily Planner",
-        "image": "/Images/todoapp.png",
+        "image": "/Images/notetaker.gif",
         "technology": "Javascript, JQuery, HTML, CSS, Local Storage",
         "Link":"https://vormc2005.github.io/Dailyplanner/",
         "description": "Basic daily planner application"
@@ -80,7 +80,16 @@
         "technology": "Javascript, Sequelize, SQL Workbench, CSS, NodeJS, Express-Handlebars, MySQL, Airfare API",
         "Link":"https://young-ocean-22570.herokuapp.com/index.html",
         "description": "This App shows information about airfare tickets, and gives you pronaunciations of common phrases"
+      },
+      {
+        "id": 12,
+        "name": "BitBot Auction",
+        "image": "/Images/bidbot.gif",
+        "technology": "Javascript, ReactJS, MongoDB, Workbench, CSS, NodeJS, Express",
+        "Link":"https://bidbot-auction.herokuapp.com/",
+        "description": "MERN application where you can bid and buy stuff"
       }
+
 
 
 
