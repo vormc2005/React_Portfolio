@@ -5,7 +5,7 @@ function ContactForm() {
     return (
         <>
         <div >
-            <h2>Contact Me</h2>
+           
   <div className='container' id="leaveContacts">
     <form action="https://formspree.io/mknbrjny" method="POST" id ="form">
 
