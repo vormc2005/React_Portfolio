@@ -1,0 +1,6 @@
+img.parallax{
+    position: absolute;
+    z-index: -2px;
+    width: 100%;
+    color: brown;
+}

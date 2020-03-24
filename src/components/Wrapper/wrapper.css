@@ -1,6 +1,6 @@
 .wrapper {
     padding-top: 1px;
-    background: #ECEFF1;
+    background-image: url("../../Images/hugo-barbosa-TnG2q8FtXsg-unsplash.jpg");
     height: 100%;
     width: 100%;
     display: flex;
@@ -9,5 +9,7 @@
     justify-content: space-around; 
      align-content: flex-start;
     overflow: auto;
+    background-repeat: no-repeat;
+  background-size: cover;
    } 
    

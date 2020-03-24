@@ -16,15 +16,17 @@
     height: 40%;
     overflow: hidden;
     text-align: center;
-    background:#6CADDC;
+    margin-right: 10px;
+   
   }
-  #projectCard > .img-container > img {
-    width: 60%
+  #projectCard > .img-container >img {
+    height:100%
+   
   }
   
   #projectCard > .content {
-    padding-left: 1rem;
-    padding-right: 1rem;
+    /* padding-left: 1rem; */
+    /* padding-right: 1rem; */
     font-size: 15px;
   }
   
@@ -42,7 +44,7 @@
       bottom: 20px;
       width: 200px;
       height: auto;
-      margin-left: 35px;
+      margin-left: 50px;
       
 
   }
