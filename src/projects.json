@@ -29,8 +29,8 @@
         "name": "Weather Forcast",
         "image": "/Images/weather.gif",
         "technology": "Javascript, JQuery, HTML, CSS, Weather API service",
-        "Link":"https://github.com/vormc2005/WeatherHW6",
-        "description": "Weather forcasting application, API does not work from github pages"
+        "Link":"https://vormc2005.github.io/WeatherHW6/",
+        "description": "Weather forcasting application. Attn: for this app to work you need to list this web site as allowed web page in Insecure Content in browser settings or you may test it from VS code"
       },
 
       {
