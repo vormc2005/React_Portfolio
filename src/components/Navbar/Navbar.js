@@ -34,8 +34,8 @@ class Navbar extends Component {
               <img src="images/office.jpg" />
             </div> */}
             <a href="#user"><img className="circle" src={myImage} /></a>
-            <a href="#name"><span className="white-text name">Dmitry Voronov</span></a>
-            <a href="#email"><span className="white-text email">voronov.dmitry@gmail.com</span></a>
+            <a href="#name"><span className="black-text name">Dmitry Voronov</span></a>
+            <a href="#email"><span className="black-text email">voronov.dmitry@gmail.com</span></a>
           </div></li>
           <li><a href="/" className="waves-effect">About Me</a></li>
           <li><a href="/portfolio">My Portfolio</a></li>
