@@ -14,3 +14,9 @@ a{
 .brand-logo{
     margin-left: 10px;
 }
+@media only screen and (max-width: 400px) {
+    .brand-logo {
+      width:70%;
+     margin-right: 100px;
+    }
+  }

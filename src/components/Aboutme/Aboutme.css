@@ -5,22 +5,31 @@
     margin-left: 100px;
 }
 
+
 @media (prefers-reduced-motion: no-preference) {
     img {
       animation: App-logo-spin infinite 20s linear;
     }
   }
 img{
-    max-width: 300px;
+    
+    max-width: 350px;
     max-height: 250px;
-    float:left;
+    /* float:left; */
     padding: 5px;
     
-  margin-top: 3%;
+  margin-top: 6%;
   margin-left: 2%;
   
 
     
+}
+@media only screen and (max-width: 600px) {
+  img {
+    background-color: lightblue;
+    width:100%;
+    margin-left: 50%;
+  }
 }
 #infocard{
     /* display: flex;
