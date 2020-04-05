@@ -56,5 +56,13 @@
       width: 60%;
     }
   }
+
+  @media (max-width: 768px) {
+    img.cardimg {
+     
+      width: 100%;
+    }
+  }
+
   
   
