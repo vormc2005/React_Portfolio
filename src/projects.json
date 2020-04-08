@@ -29,7 +29,7 @@
         "name": "Weather Forcast",
         "image": "/Images/weather.gif",
         "technology": "Javascript, JQuery, HTML, CSS, Weather API service",
-        "Link":"https://vormc2005.github.io/WeatherHW6/",
+        "Link":"https://github.com/vormc2005/WeatherHW6",
         "description": "Weather forcasting application. Attn: for this app to work you need to list this web site as allowed web page in Insecure Content in browser settings or you may test it from VS code"
       },
 
@@ -83,6 +83,14 @@
       },
       {
         "id": 12,
+        "name": "React Employee Directory",
+        "image": "/Images/ReactEmployeeSearch.GIF",
+        "technology": "Javascript, ReactJS, AXIOS, random employee API",
+        "Link":"https://floating-lake-69317.herokuapp.com/",
+        "description": "Employee database with search made in React."
+      },
+      {
+        "id": 13,
         "name": "BitBot Auction",
         "image": "/Images/bidbot.gif",
         "technology": "Javascript, ReactJS, MongoDB, Workbench, CSS, NodeJS, Express",
