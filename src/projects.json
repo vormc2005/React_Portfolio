@@ -84,7 +84,7 @@
       {
         "id": 12,
         "name": "React Employee Directory",
-        "image": "/Images/ReactEmployeeSearch.GIF",
+        "image": "/Images/ReactEmployeeSearch.gif",
         "technology": "Javascript, ReactJS, AXIOS, random employee API",
         "Link":"https://floating-lake-69317.herokuapp.com/",
         "description": "Employee database with search made in React."
