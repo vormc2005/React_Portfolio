@@ -1,13 +1,13 @@
 import React from "react";
 import "./portfoliocard.css";
-
+import Parallax from "../Parallax/Parallax"
 
 function PortfolioCard(props) {
   return (
     // <div className="contaner">
    
-      
-     
+      <>
+    
     <div className="card" id="projectCard">
       <div className="img-container">
         <img className = "cardimg" alt={props.name} src={props.image} />
@@ -28,8 +28,7 @@ function PortfolioCard(props) {
             </a>
             </div>
       </div>
-       
-           
+        </>
        
    
   );
