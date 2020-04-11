@@ -4,7 +4,7 @@ import Footer from "../components/Footer/Footer"
 import Wrapper from "../components/Wrapper/Wrapper"
 import projects from "../../src/projects.json"
 import PortfolioCard from "../components/PortfolioCard/portfoliocard"
-import Parallax from "../components/Parallax/Parallax"
+
 
 class Portfolio extends Component {
     state ={

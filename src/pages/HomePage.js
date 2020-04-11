@@ -4,9 +4,6 @@ import Aboutme from "../components/Aboutme/ABoutme"
 import Footer from '../components/Footer/Footer';
 import Techcard from "../components/TechCard/Techcard"
 import Parallax from "../components/Parallax/Parallax"
-
-
-
 import Wrapper from "../components/Wrapper/Wrapper"
 import projects from "../../src/projects.json"
 import PortfolioCard from "../components/PortfolioCard/portfoliocard"
