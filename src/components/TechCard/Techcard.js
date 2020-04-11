@@ -8,8 +8,8 @@ const Techcard = () => {
     return (
         <>
             <div className="myinfo container-fluid">
-                <div className="col s12 m7">
-                    <div className="infocard card horizontal " id="infocard">
+                <div className="col s12 m6">
+                    <div className="techcard card horizontal " id="techcard">
                         <div class="row">
 
                             <div className="card-stacked">

@@ -1,9 +1,10 @@
 import React, {Component} from 'react';
 import Navbar from "../components/Navbar/Navbar";
-
+import Footer from "../components/Footer/Footer"
 import Wrapper from "../components/Wrapper/Wrapper"
 import projects from "../../src/projects.json"
 import PortfolioCard from "../components/PortfolioCard/portfoliocard"
+import Parallax from "../components/Parallax/Parallax"
 
 class Portfolio extends Component {
     state ={
@@ -15,7 +16,9 @@ class Portfolio extends Component {
   
         <>
       <Navbar/>
-      <Wrapper>       
+      
+      <Wrapper> 
+           
       {this.state.projects.map( project=> (
         
           <PortfolioCard            
@@ -33,7 +36,8 @@ class Portfolio extends Component {
       
      
       </Wrapper>
-      {/* <Footer/> */}
+    
+      <Footer/>
       </>
 
      
