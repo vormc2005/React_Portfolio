@@ -47,6 +47,7 @@ class HomePage extends Component {
           
            </Wrapper>
       <Parallax/>
+      
      
       <Footer/>
 

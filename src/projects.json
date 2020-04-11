@@ -36,7 +36,7 @@
       {
         "id": 5,
         "name": "Busy Bot",
-        "image": "/Images/screenshot(7).png",
+        "image": "/Images/busybot.gif",
         "technology": "Javascript, JQuery, HTML, CSS, TicketMaster API, MapQuest API",
         "Link":"https://mhitchi.github.io/group01/",
         "description": "This App show events within specified city"
