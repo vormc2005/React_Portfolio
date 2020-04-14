@@ -13,11 +13,19 @@
         "name": "Quiz Project",
         "image": "/Images/quiz.png",
         "technology": "Javascript, HTML, CSS",
-        "Link":"https://vormc2005.github.io/Homework4/",
+        "Link":"https://vormc2005.github.io/Quiz/",
         "description": "Under development quiz application"
       },
       {
         "id": 3,
+        "name": "Pig Game",
+        "image": "/Images/Pig_game.png",
+        "technology": "Javascript, HTML, CSS",
+        "Link":"https://vormc2005.github.io/Pig_game/",
+        "description": "Game for two players. Rolling dice. Player with highest points wins."
+      },
+      {
+        "id": 4,
         "name": "Daily Planner",
         "image": "/Images/notetaker.gif",
         "technology": "Javascript, JQuery, HTML, CSS, Local Storage",
@@ -25,7 +33,7 @@
         "description": "Basic daily planner application"
       },
       {
-        "id": 4,
+        "id": 5,
         "name": "Weather Forcast",
         "image": "/Images/weather.gif",
         "technology": "Javascript, JQuery, HTML, CSS, Weather API service",
@@ -34,7 +42,7 @@
       },
 
       {
-        "id": 5,
+        "id": 6,
         "name": "Busy Bot",
         "image": "/Images/busybot.gif",
         "technology": "Javascript, JQuery, HTML, CSS, TicketMaster API, MapQuest API",
@@ -95,7 +103,7 @@
         "image": "/Images/bidbot.gif",
         "technology": "Javascript, ReactJS, MongoDB, Workbench, CSS, NodeJS, Express",
         "Link":"https://bidbot-auction.herokuapp.com/",
-        "description": "MERN application where you can bid and buy stuff"
+        "description": "MERN application auction/online store application"
       }
 
 
