@@ -101,9 +101,17 @@
         "id": 13,
         "name": "BitBot Auction",
         "image": "/Images/bidbot.gif",
-        "technology": "Javascript, ReactJS, MongoDB, Workbench, CSS, NodeJS, Express",
+        "technology": "Javascript, ReactJS, MongoDB, CSS, NodeJS, Express",
         "Link":"https://bidbot-auction.herokuapp.com/",
         "description": "MERN application auction/online store application"
+      },
+      {
+        "id": 14,
+        "name": "Budget Application",
+        "image": "/Images/Budget_App.gif",
+        "technology": "Javascript, CSS, HTML",
+        "Link":"https://vormc2005.github.io/Budget_app/",
+        "description": "Vanila JavaScript application wit DOM manipulation"
       }
 
 
