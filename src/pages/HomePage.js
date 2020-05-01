@@ -20,7 +20,7 @@ class HomePage extends Component {
     
     
       <Navbar/>
-      <Parallax/>
+      {/* <Parallax/> */}
      
       <Aboutme/>   
       <Parallax/>
