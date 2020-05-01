@@ -1,9 +1,7 @@
 import React, {Component} from 'react';
-import Navbar from "../components/Navbar/Navbar";
-import Footer from "../components/Footer/Footer"
-import Wrapper from "../components/Wrapper/Wrapper"
-import projects from "../../src/projects.json"
-import PortfolioCard from "../components/PortfolioCard/portfoliocard"
+import Wrapper from "../Wrapper/Wrapper"
+import projects from "../../projects.json"
+import PortfolioCard from "./portfoliocard"
 
 
 class Portfolio extends Component {
@@ -14,8 +12,8 @@ class Portfolio extends Component {
     render(){
   return ( 
   
-        <>
-      <Navbar/>
+        
+      
       
       <Wrapper> 
            
@@ -28,22 +26,15 @@ class Portfolio extends Component {
             image={project.image}
             technology={project.technology}
             description={project.description}
-            Link ={project.Link}
-            
+            Link ={project.Link}            
           />
           
-        ))}        
-      
+        ))}       
      
-      </Wrapper>
-    
-      <Footer/>
-      </>
-
-     
+      </Wrapper>   
    
     
-  );
+      );
     }
 }
 

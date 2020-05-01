@@ -4,7 +4,7 @@ import "./ContactForm.css"
 function ContactForm() {
     return (
         <>
-        <div >
+        
            
   <div className='container' id="leaveContacts">
     <form action="https://formspree.io/mknbrjny" method="POST" id ="form">
@@ -14,7 +14,11 @@ function ContactForm() {
       Your name:
       <br />
     </div>
-      <input type="text" name="name" id="inputs"/>
+      <input 
+          type="text" 
+          name="name"
+          id="inputs"
+      />
     </div>
     <br />
     <div id="email">
@@ -22,7 +26,11 @@ function ContactForm() {
       Your email:
       <br />
       </div>
-      <input type="email" name="_replyto" id="inputs"/>
+        <input 
+            type="email" 
+            name="_replyto"
+            id="inputs"
+        />
     </div>
     <br />
     <div id="message">
@@ -30,15 +38,24 @@ function ContactForm() {
       Your message:
       <br />
       </div>
-      <textarea name="message" class="form-control" rows="3" id="inquirytext"></textarea>
+      <textarea 
+          name="message" 
+          className="form-control" 
+          rows="3" 
+          id="inquirytext">        
+      </textarea>
     
     <br /> 
-    <button type="submit" id="submitinfo" class="btn btn-primary">Send</button>
+      <button 
+        type="submit" 
+        id="submitinfo" 
+        className="btn btn-primary">
+          Send
+      </button>
   </form>
-  </div>
-  </div>
+  </div>  
        </> 
-    )
-}
+    );
+};
 
 export default ContactForm

@@ -10,15 +10,15 @@ const Techcard = () => {
             <div className="myinfo container-fluid">
                 <div className="col s12 m6">
                     <div className="techcard card horizontal " id="techcard">
-                        <div class="row">
+                        <div className="row">
 
                             <div className="card-stacked">
                                 <div className="card-content">
                                     <div className="col m8">
                                         <div className="row">
-                                            {/* <div className="col s8"> */}
+                                            
                                             <h2 className="col s6" id="skillsheader">Technologies and languages that I have experience with</h2>
-                                            {/* </div> */}
+                                           
 
                                         </div>
                                         
@@ -37,7 +37,7 @@ const Techcard = () => {
                                             </ul>
 
                                         </div>
-                                        <div class=" col m6">
+                                        <div className=" col m6">
                                             <ul className="skillslist">
                                             <li style={{ listStyleType: "disc" }}>Local Storage</li>
                                                 <li style={{ listStyleType: "disc" }}>Progressive Web Application</li>
@@ -56,7 +56,7 @@ const Techcard = () => {
 
 
                                     <div className="row">
-                                        <div class=" col m4">
+                                        <div className=" col m4">
                                             <h2 id="skillsheader">Technologies and languages I am interested in</h2>
                                             <ul className="skillslist">
                                                 <li style={{ listStyleType: "disc" }}>Python</li>
