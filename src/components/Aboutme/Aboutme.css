@@ -12,7 +12,7 @@
       animation: App-logo-spin infinite 20s linear;
     }
   }
-img{
+img.responsive-img{
   width: 350px;
   height: 250px;
   color: #111;
@@ -30,9 +30,9 @@ img{
 }
 @media only screen and (max-width: 600px) {
   img.responsive-img {
-    
+    height: 70%;
     width:100%;
-    margin-left: 0;
+   
   }
 }
 #infocard{
@@ -48,6 +48,6 @@ img{
    border: transparent;
     
 }
-.card-content{
+.aboutMe{
   text-align: justify;
 }
