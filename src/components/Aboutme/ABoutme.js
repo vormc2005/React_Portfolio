@@ -11,11 +11,11 @@ const Aboutme =()=>{
             <div className="myinfo container-fluid">
              <div className="col s12">
                  <div className="infocard card horizontal " id="infocard">
-                    <div class="row">
-                        <div className="card-image">
+                    <div classNmae="row">
+                        <div className="image">
                             <img class="responsive-img" src={myImage} alt="My_image"/>
                         </div>
-                <div className="card-stacked col md ={12}">
+                {/* <div className="card-stacked col md ={12}"> */}
                     <div className="card-content ">
                              <p>My name is Dmitry Voronov. I am a full stack web developer. I build responsive dynamic web applications using Javascript, JQuery, ReactJS, NodeJS. I am also familiar with Mongo, MySQL, Express, Express-Handlebars. I obtained developer skills from George Washington Universitys' full stack developer certification course. In addition, I have a degree in Finance from George Mason University, and Business Administration degree from NVCC. One of the reasons why I chose coding is that I like to solve problems and create solutions that make peoples' life easier. I like learning new skills and pushing myself to new limits. I enjoy working on applications in teams and alone. I am proficient in developing functional web applications using Javascript and ReactJS, as well as in styling web applications using CSS, Bootstrap and Materialize frameworks. 
  
@@ -31,7 +31,7 @@ const Aboutme =()=>{
                             </p>
                             
                     </div>                
-                </div>
+                {/* </div> */}
                     </div>
                 </div>
               </div>            
