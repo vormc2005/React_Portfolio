@@ -120,6 +120,14 @@
         "technology": "Vanilla Javascript, CSS, HTML, Webpack",
         "Link":"https://gentle-savannah-71490.herokuapp.com/",
         "description": "Search for recipe using search field. You may type ingredient name or dish ex 'Pizza'"
+      },
+      {
+        "id": 16,
+        "name": "GitHub User Finder",
+        "image": "/Images/Github_finder.gif",
+        "technology": "Vanilla Javascript, ReactJS, CSS, HTML",
+        "Link":"https://githubusersearchinreact.netlify.app",
+        "description": "Search for Github user by typing name or github login"
       }
 
 
