@@ -48,3 +48,6 @@ img{
    border: transparent;
     
 }
+.card-content{
+  text-align: justify;
+}
