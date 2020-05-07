@@ -8,7 +8,7 @@ import image3 from '../Images/Recipe_boss.gif';
 import image4 from '../Images/Budget_App.gif';
 import image5 from '../Images/busybot.gif';
 import image6 from '../Images/Piggame.gif';
-import image7 from '../Images/weather.gif'
+// import image7 from '../Images/weather.gif'
 
  
 class DemoCarousel extends Component {
@@ -43,11 +43,11 @@ class DemoCarousel extends Component {
                     6" />
                     <p className="legend">Pig Game - classic roll the dice game</p>
                 </div>
-                <div>
+                {/* <div>
                     <img src={image7} alt="
                     7" />
                     <p className="legend">Weather Service Application</p>
-                </div>
+                </div> */}
             </Carousel>
         );
     }
