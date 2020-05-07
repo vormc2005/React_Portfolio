@@ -31,7 +31,7 @@ class DemoCarousel extends Component {
                 <div>
                     <img src={image4} alt="
                     4" />
-                    <p className="legend">Budgt App - input your income and expenses and calculate your budget</p>
+                    <p className="legend">Budgt App -  calculate your budget</p>
                 </div>
                 <div>
                     <img src={image5} alt="
