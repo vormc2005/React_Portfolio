@@ -30,9 +30,7 @@ class Navbar extends Component {
 
         <ul id="slide-out" className="sidenav">
           <li><div className="user-view">
-            {/* <div className="background">
-              <img src="images/office.jpg" />
-            </div> */}
+           
             <a href="#user"><img className="circle" src={myImage} /></a>
             <a href="#name"><span className="black-text name">Dmitry Voronov</span></a>
             <a href="#email"><span className="black-text email">voronov.dmitry@gmail.com</span></a>
