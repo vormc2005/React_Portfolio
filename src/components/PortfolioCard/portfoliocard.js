@@ -1,6 +1,6 @@
 import React from "react";
 import "./portfoliocard.css";
-import Parallax from "../Parallax/Parallax"
+
 
 function PortfolioCard(props) {
   return (
