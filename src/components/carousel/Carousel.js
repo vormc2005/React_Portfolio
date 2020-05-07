@@ -16,7 +16,7 @@ class DemoCarousel extends Component {
         return (
             <Carousel>
                 <div>
-                    <img src={image1} alt="1" />
+                    <img src={image1}  alt="1" />
                     <p className="legend">Auction - auction site application</p>
                 </div>
                 <div>

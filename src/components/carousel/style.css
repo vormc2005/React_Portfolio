@@ -1,23 +1,24 @@
+ 
+ .slider-wrapper {
 
-.slider-wrapper {
-
-height:1000px;
+height:800px;
 margin-bottom:0px;
 width:500px
-}
+} 
 .carousel.carousel-slider{
 height:800px;
 margin-bottom:0px
 }
 .carousel-root{
-  
-    height:900px;
+    background-color: rgb(173, 48, 48);
+  margin-bottom: 600px;
+   height:200px;
    
 }
 .carousel .slide .legend{
     position:relative;
     margin-top: 0px;
-    bottom:150px;
+    bottom:0px;
    
    
 }
