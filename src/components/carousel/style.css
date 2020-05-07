@@ -1,24 +1,32 @@
  
  .slider-wrapper {
 
-height:800px;
-margin-bottom:0px;
-width:500px
+height:1000px;
+/* margin-bottom:200px; */
+width:500px;
+background-color: rgb(163, 163, 163);
+
+
 } 
 .carousel.carousel-slider{
 height:800px;
-margin-bottom:0px
+margin-top:0px;
+/* margin-bottom:400px; */
+/* background-color: seagreen; */
 }
 .carousel-root{
-    background-color: rgb(173, 48, 48);
-  margin-bottom: 600px;
-   height:200px;
+    /* background-color: rgb(173, 48, 48); */
+  margin-bottom:600px;
+   height:270px;
+   /* background-color: seagreen; */
+
    
 }
 .carousel .slide .legend{
     position:relative;
     margin-top: 0px;
     bottom:0px;
+    
    
    
 }
