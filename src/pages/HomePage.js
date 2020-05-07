@@ -6,7 +6,7 @@ import Techcard from "../components/TechCard/Techcard"
 import Parallax from "../components/Parallax/Parallax"
 import Wrapper from "../components/Wrapper/Wrapper"
 import projects from "../../src/projects.json"
-import PortfolioCard from "../components/PortfolioCard/portfoliocard"
+import DemoCarousel from '../components/carousel/Carousel';
 
 
 
@@ -27,9 +27,9 @@ class HomePage extends Component {
      
       <Techcard/>
       <Parallax/>
-      <Wrapper> 
-           
-           {this.state.projects.map( project=> (
+      {/* <Wrapper>  */}
+      <DemoCarousel />
+           {/* {this.state.projects.map( project=> (
              
                <PortfolioCard            
                  id={project.id}
@@ -42,10 +42,11 @@ class HomePage extends Component {
                  
                />
                
-             ))}        
+             ))}         */}
            
+            
+           {/* </Wrapper> */}
           
-           </Wrapper>
       <Parallax/>
       
      
