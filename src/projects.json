@@ -94,12 +94,12 @@
         "name": "React Employee Directory",
         "image": "/Images/ReactEmployeeSearch.gif",
         "technology": "Javascript, ReactJS, AXIOS, random employee API",
-        "Link":"https://floating-lake-69317.herokuapp.com/",
+        "Link":"https://employee-directory-dv.herokuapp.com/",
         "description": "Employee database with search made in React."
       },
       {
         "id": 13,
-        "name": "BitBot Auction",
+        "name": "BidBot Auction",
         "image": "/Images/bidbot.gif",
         "technology": "Javascript, ReactJS, MongoDB, CSS, NodeJS, Express",
         "Link":"https://bidbot-auction.herokuapp.com/",
@@ -118,7 +118,7 @@
         "name": "Forkify",
         "image": "/Images/Recipe_boss.gif",
         "technology": "Vanilla Javascript, CSS, HTML, Webpack",
-        "Link":"https://gentle-savannah-71490.herokuapp.com/",
+        "Link":"https://forkify-dv.herokuapp.com/",
         "description": "Search for recipe using search field. You may type ingredient name or dish ex 'Pizza'"
       },
       {
