@@ -1,25 +1,9 @@
+.myNavBar{
+    border-bottom: 8px solid rgb(99, 129, 192);
+}
 
-
-nav{
-    background-color:rgb(126, 146, 190);
-    text-decoration: none;
-}
-.sidenav{
-
-    background-color:#E0E0E0 ;
-}
-a{
-    text-decoration: none;
-}
-.brand-logo{
-    margin-left: 10px;
-}
-@media only screen and (max-width: 400px) {
-    .brand-logo {
-      width:70%;
-     margin-right: 100px;
-    }
-  }
-  img.circle{
-    margin-left:0 ;
+  .mr-auto{
+     
+      margin-left: 70%;
+      
   }
