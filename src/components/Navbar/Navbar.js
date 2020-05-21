@@ -1,22 +1,43 @@
 import React, { Component } from 'react'
 import "./Navbar.css"
-import myImage from "../../Images/1 (1).jpg"
+// import myImage from "../../../Images/1 (1).jpg"
+// import Navbar from 'react-bootstrap/Navbar'
+import { Button, Navbar, Nav, NavItem, NavDropdown, MenuItem } from 'react-bootstrap';
+class NavbarComp extends Component {
 
-class Navbar extends Component {
-
-  componentDidMount(){
-    const M = window.M;
-    document.addEventListener('DOMContentLoaded', function() {
-      var elems = document.querySelectorAll('.sidenav');
-      var instances = M.Sidenav.init(elems,{});
-    });
-  }
+  // componentDidMount(){
+  //   const M = window.M;
+  //   document.addEventListener('DOMContentLoaded', function() {
+  //     var elems = document.querySelectorAll('.sidenav');
+  //     var instances = M.Sidenav.init(elems,{});
+  //   });
+  // }
 
 
   render() {
     return (
       <div>
-        <nav>
+        <Navbar className="myNavBar" collapseOnSelect expand="lg" bg="dark" variant="dark">
+  <Navbar.Brand href="#home">Dmitry Voronov</Navbar.Brand>
+  <Navbar.Toggle aria-controls="responsive-navbar-nav" />
+  <Navbar.Collapse id="responsive-navbar-nav">
+    <Nav className="mr-auto">
+      <Nav.Link href="/">About Me</Nav.Link>
+      <Nav.Link href="/portfolio">My Portfolio</Nav.Link>
+      <Nav.Link href="/contact">Contact Me</Nav.Link>
+      
+    </Nav>
+    
+  </Navbar.Collapse>
+</Navbar>
+
+
+
+
+
+
+
+        {/* <nav>
           <div className="nav-wrapper">
             <a href="#" data-target="slide-out" className="sidenav-trigger"><i className="material-icons">menu</i></a>
             <a href="/" className="brand-logo">Dmitry Voronov</a>
@@ -39,7 +60,7 @@ class Navbar extends Component {
           <li><a href="/portfolio">My Portfolio</a></li>
           <li><a href="/contact">Contact Me</a></li>
           
-        </ul>
+        </ul> */}
 
 
 
@@ -48,4 +69,4 @@ class Navbar extends Component {
   }
 }
 
-export default Navbar
+export default NavbarComp
