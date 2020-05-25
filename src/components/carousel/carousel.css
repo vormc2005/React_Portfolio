@@ -6,8 +6,19 @@ h3 p .carouselText{
 
 .carousel-caption{
     color: black;
+    z-index: 0;
 }
 
-.carousel-control-next {
+a.carousel-control-next, .carousel-control-prev{
     color: black;
+    z-index: 0;
+}
+.carousel-indicators{
+    z-index: 0;
+}
+
+.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
+    /* margin-bottom: 450px; */
+    /* font-weight: 500; */
+    line-height: 1.2;
 }

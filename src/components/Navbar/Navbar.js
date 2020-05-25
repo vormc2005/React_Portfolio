@@ -2,7 +2,7 @@ import React, { Component } from 'react'
 import "./Navbar.css"
 // import myImage from "../../../Images/1 (1).jpg"
 // import Navbar from 'react-bootstrap/Navbar'
-import { Button, Navbar, Nav, NavItem, NavDropdown, MenuItem } from 'react-bootstrap';
+import {  Navbar, Nav } from 'react-bootstrap';
 class NavbarComp extends Component {
 
   // componentDidMount(){
