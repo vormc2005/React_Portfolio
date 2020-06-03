@@ -3,6 +3,7 @@ import "./Navbar.css"
 // import myImage from "../../../Images/1 (1).jpg"
 // import Navbar from 'react-bootstrap/Navbar'
 import {  Navbar, Nav } from 'react-bootstrap';
+import {Link} from "react-router-dom"
 class NavbarComp extends Component {
 
   // componentDidMount(){
@@ -22,9 +23,9 @@ class NavbarComp extends Component {
   <Navbar.Toggle aria-controls="responsive-navbar-nav" />
   <Navbar.Collapse id="responsive-navbar-nav">
     <Nav className="mr-auto">
-      <Nav.Link href="/">About Me</Nav.Link>
-      <Nav.Link href="/portfolio">My Portfolio</Nav.Link>
-      <Nav.Link href="/contact">Contact Me</Nav.Link>
+      <Link className="Navlinks" to="/">About Me</Link>
+      <Link className="Navlinks" to="/portfolio">My Portfolio</Link>
+      <Link className="Navlinks" to="/contact">Contact Me</Link>
       
     </Nav>
     

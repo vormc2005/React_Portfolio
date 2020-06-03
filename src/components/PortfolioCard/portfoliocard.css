@@ -10,6 +10,7 @@
     display: inline-block;
     justify-content: center;
     padding:10px;
+    margin-bottom: 170px;
   }
   
   #projectCard > .img-container {

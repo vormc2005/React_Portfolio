@@ -7,3 +7,12 @@
       margin-left: 70%;
       
   }
+  .Navlinks{
+      color: white;
+      margin:10px;
+    
+  }
+  .Navlinks:hover{
+      color: grey;
+      text-decoration: none;
+  }
