@@ -25,10 +25,10 @@ class BootstrapCarousel extends Component {
                 src={image1}
                 alt="First slide"
               />
-              <Carousel.Caption>
+              {/* <Carousel.Caption>
                 <h3>Bid Bot</h3>
                 <p>Auction Application - E-comerce</p>
-              </Carousel.Caption>
+              </Carousel.Caption> */}
             </Carousel.Item>
             <Carousel.Item>
               <img
@@ -37,10 +37,10 @@ class BootstrapCarousel extends Component {
                 alt="2 slide"
               />
           
-              <Carousel.Caption >
+              {/* <Carousel.Caption >
                 <h3 >Budget Application</h3>
                 <p >Calculate your budget</p>
-              </Carousel.Caption>
+              </Carousel.Caption> */}
             </Carousel.Item>
             <Carousel.Item>
               <img
@@ -49,10 +49,10 @@ class BootstrapCarousel extends Component {
                 alt="Third slide"
               />
           
-              <Carousel.Caption>
+              {/* <Carousel.Caption>
                 <h3>BusyBot</h3>
                 <p>Find events near you</p>
-              </Carousel.Caption>
+              </Carousel.Caption> */}
             </Carousel.Item>
             <Carousel.Item>
               <img
@@ -61,10 +61,10 @@ class BootstrapCarousel extends Component {
                 alt="4 slide"
               />
           
-              <Carousel.Caption>
+              {/* <Carousel.Caption>
                 <h3>Github User Finder</h3>
                 <p>Find git hub user</p>
-              </Carousel.Caption>
+              </Carousel.Caption> */}
             </Carousel.Item>
             <Carousel.Item>
               <img
@@ -73,10 +73,10 @@ class BootstrapCarousel extends Component {
                 alt="5th slide"
               />
           
-              <Carousel.Caption>
+              {/* <Carousel.Caption>
                 <h3>Cassic Pig Game</h3>
                 <p>Classic rool the dice game</p>
-              </Carousel.Caption>
+              </Carousel.Caption> */}
             </Carousel.Item>
             <Carousel.Item>
               <img
@@ -85,10 +85,10 @@ class BootstrapCarousel extends Component {
                 alt="6th slide"
               />
           
-              <Carousel.Caption>
+              {/* <Carousel.Caption>
                 <h3>Forkify</h3>
                 <p>Search for recipes</p>
-              </Carousel.Caption>
+              </Carousel.Caption> */}
             </Carousel.Item>
            
           </Carousel>

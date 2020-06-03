@@ -34,10 +34,13 @@
   
   #projectCard > .content > ul {
     list-style-type: none;
+    width: 100%;
+  
   }
   
   #projectCard > .content > ul > li {
     margin-top: 18px;
+    margin-left: -15%;
   }
   #projectlink{
     
