@@ -4,7 +4,7 @@ import "./ContactForm.css"
 function ContactForm() {
     return (
         <>
-        <div >
+        <div className="background">
            
   <div className='container' id="leaveContacts">
     <form action="https://formspree.io/mknbrjny" method="POST" id ="form">
@@ -35,8 +35,10 @@ function ContactForm() {
     <br /> 
     <button type="submit" id="submitinfo" class="btn btn-primary" target="_blank">Send</button>
   </form>
+
   </div>
   </div>
+  
        </> 
     )
 }

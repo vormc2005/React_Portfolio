@@ -1,6 +1,6 @@
 
  .footer {
-    position: sticky;
+    position: fixed;
     /* margin-top: 20px; */
     width: 100%;
     bottom: 0; /* stick to bottom */
@@ -12,6 +12,7 @@
 
     text-align: center;
     border-top: 8px solid rgb(126, 146, 190);
+    margin-top: 100px;
  
 
   }
