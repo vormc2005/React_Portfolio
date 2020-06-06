@@ -11,6 +11,9 @@
     justify-content: center;
     padding:10px;
     margin-bottom: 170px;
+    animation: backInUp;
+    animation-duration: 2s;
+
   }
   
   #projectCard > .img-container {
@@ -68,6 +71,15 @@
      
       width: 100%;
     }
+  }
+  .cardBtn.btn-primary{
+   background-image: none;
+   background-color:#1a5d97;
+   border-color:#337ab7;
+  }
+  .cardBtn.btn-primary:hover {
+    background-color:#144168; /* Green */
+    color: white;
   }
 
   

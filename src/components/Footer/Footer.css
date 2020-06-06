@@ -18,5 +18,16 @@
 
   .contactbuttons{
     margin-top: 10px;
+
   }
+  .contactBtn.btn-primary{
+    background-image: none;
+    background-color:#1a5d97;
+    border-color:#337ab7;
+    margin:3px;
+   }
+   .contactBtn:hover {
+     background-color:#144168; /* Green */
+     color: white;
+   }
   

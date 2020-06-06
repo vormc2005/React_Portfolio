@@ -24,7 +24,7 @@ function PortfolioCard(props) {
             <strong>Description:</strong> {props.description}
           </li>
         </ul>
-        <a href={props.Link} className="btn btn-primary cardBtn" id="projectlink">{props.name}
+        <a href={props.Link} target="_blank" className="btn btn-primary cardBtn" id="projectlink">{props.name}
             </a>
             </div>
       </div>

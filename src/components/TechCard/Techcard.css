@@ -22,13 +22,24 @@
     margin-bottom: 0px;
 }
 #techBtn{
+  margin-left: auto;
+  margin-right: auto;
   
+    background-image: none;
+    background-color:#1a5d97;
+    border-color:#337ab7;  
+    /* margin-left: 47%;   */
    
-    margin-left: 47%;  
 
 }
+#techBtn:hover {
+    background-color:#144168; /* Green */
+    color: white;
+    
+  }
 
 #myportfoliobtn{
     color: cornsilk;
+    text-decoration: none;
     
 }

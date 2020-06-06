@@ -16,3 +16,6 @@
       color: grey;
       text-decoration: none;
   }
+  .navbar-toggler-icon:hover{
+     background-color: rgba(107, 107, 107, 0.808);
+  }

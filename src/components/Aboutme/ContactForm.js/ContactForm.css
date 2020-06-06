@@ -9,3 +9,15 @@
     margin-top: 100px;
     margin-bottom: 450px;
 }
+#submitinfo.btn-primary{
+    background-image: none;
+    background-color:#1a5d97;
+    border-color:#337ab7;
+    margin:3px;
+   }
+   #submitinfo.btn-primary:hover {
+     background-color:#144168;
+     color: white;
+   }
+  
+
