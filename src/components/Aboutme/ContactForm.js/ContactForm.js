@@ -1,10 +1,11 @@
 import React from 'react'
 import "./ContactForm.css"
 
+
 function ContactForm() {
     return (
         <>
-        <div className="background">
+        
            
   <div className='container' id="leaveContacts">
     <form action="https://formspree.io/mknbrjny" method="POST" id ="form">
@@ -37,7 +38,7 @@ function ContactForm() {
   </form>
 
   </div>
-  </div>
+  
   
        </> 
     )

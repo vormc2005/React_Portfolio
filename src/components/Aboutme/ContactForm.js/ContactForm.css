@@ -3,11 +3,13 @@
 }
 #form{
 
-    background-color:rgba(235, 235, 235, 0.938);
+    background-color:rgba(190, 189, 189, 0.938);
     padding:10px;
     border-radius: 3px;
     margin-top: 50px;
     margin-bottom: 100px;
+    z-index: 10px;
+    box-shadow: 10px 10px grey;
    
 }
 #submitinfo.btn-primary{
@@ -20,9 +22,15 @@
      background-color:#144168;
      color: white;
    }
-   body{
-    background-image: url("../../../Images/jeshoots-com-pUAM5hPaCRI-unsplash.jpg") ;
-    background-repeat: no-repeat;
-  background-size: 100%;
-}
+
+   #inputs{
+    animation:fadeInLeftBig;
+    animation-duration: 2s;
+   }
+   #inquirytext, #submitinfo{
+    animation:fadeInRightBig;
+    animation-duration: 2s;
+   }
+   
+   
 
