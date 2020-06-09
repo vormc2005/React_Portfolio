@@ -8,14 +8,7 @@
       "description": "This App generates password between 8-128 characters long"
     },
 
-    {
-        "id": 2,
-        "name": "Quiz Project",
-        "image": "/Images/quiz.png",
-        "technology": "Javascript, HTML, CSS",
-        "Link":"https://vormc2005.github.io/Quiz/",
-        "description": "Under development quiz application"
-      },
+   
       {
         "id": 3,
         "name": "Pig Game",
