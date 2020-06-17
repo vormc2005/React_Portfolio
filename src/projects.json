@@ -121,7 +121,25 @@
         "technology": "Vanilla Javascript, ReactJS, CSS, HTML",
         "Link":"https://githubusersearchinreact.netlify.app",
         "description": "Search for Github user by typing name or github login"
-      }
+      },
+      {
+        "id": 17,
+        "name": "Protect - Breakdown Coverage",
+        "image": "/Images/CSS_animation.gif",
+        "technology": "HTML, CSS, @keyframes anmations",
+        "Link":"https://vormc2005.github.io/Protect_css_lLanding_page/",
+        "description": "Landing page with CSS animations"
+
+      }, 
+      {
+        "id": 18,
+        "name": "Movie Theater Booking interface",
+        "image": "/Images/Movie_theater.gif",
+        "technology": "HTML, CSS, Vanilla JavaScript",
+        "Link":"https://vormc2005.github.io/Movie_booker/",
+        "description": "Movie theater seat booking interface. Click to reserve seats, and see total cost."
+
+      } 
 
 
 
