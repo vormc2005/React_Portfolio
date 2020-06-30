@@ -17,10 +17,10 @@ import image6 from './Images/Recipe_boss.gif';
 class BootstrapCarousel extends Component {
     render() {
         return (
-          
+          <div className="aroundcarousel">
             <Carousel>
             <Carousel.Item>
-              <img
+              <img style={{maxheight:"520"}}
                 className="d-block w-100"
                 src={image1}
                 alt="First slide"
@@ -32,6 +32,7 @@ class BootstrapCarousel extends Component {
             </Carousel.Item>
             <Carousel.Item>
               <img
+                style={{maxheight:"520"}}
                 className="d-block w-100"
                 src={image2}
                 alt="2 slide"
@@ -44,6 +45,7 @@ class BootstrapCarousel extends Component {
             </Carousel.Item>
             <Carousel.Item>
               <img
+                style={{maxheight:"520"}}
                 className="d-block w-100"
                 src={image3}
                 alt="Third slide"
@@ -56,6 +58,7 @@ class BootstrapCarousel extends Component {
             </Carousel.Item>
             <Carousel.Item>
               <img
+                style={{maxheight:"520"}}
                 className="d-block w-100"
                 src={image4}
                 alt="4 slide"
@@ -68,6 +71,7 @@ class BootstrapCarousel extends Component {
             </Carousel.Item>
             <Carousel.Item>
               <img
+                style={{height:"300"}}
                 className="d-block w-100"
                 src={image5}
                 alt="5th slide"
@@ -80,6 +84,7 @@ class BootstrapCarousel extends Component {
             </Carousel.Item>
             <Carousel.Item>
               <img
+                style={{maxheight:"520"}}
                 className="d-block w-100"
                 src={image6}
                 alt="6th slide"
@@ -92,6 +97,7 @@ class BootstrapCarousel extends Component {
             </Carousel.Item>
            
           </Carousel>
+          </div>
         
         );
     }

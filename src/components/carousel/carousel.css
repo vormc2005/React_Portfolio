@@ -22,3 +22,57 @@ a.carousel-control-next, .carousel-control-prev{
     /* font-weight: 500; */
     line-height: 1.2;
 }
+
+.carousel.slide{
+   
+    background-color:black;
+    height: 550px;
+    width:80vw;
+    margin-left: 50%;
+    transform: translateX(-50%);
+    /* background-color:black; */
+    /* color: springgreen; */
+    padding-top: 20px;
+    border-radius: 10px;
+}
+@media only screen and (max-width: 600px) {
+    .carousel.slide{
+      height:170px
+    }
+  }
+  ol.carousel-indicators{
+      background-color:black;
+  }
+
+/* .carousel-inner{
+    height: 520px;
+   
+} */
+.carousel-item{
+    height: 480px;
+}
+@media only screen and (max-width: 600px) {
+    .carousel-item{
+      height:130px
+    }
+}
+.carousel-control-prev-icon{
+    background-color:black;
+    z-index: 5px;
+    border-radius: 50%;
+    padding: 20px;
+    
+}
+.carousel-control-next-icon{
+    background-color:black;
+    z-index: 5px;
+    border-radius: 50%;
+    padding: 20px;
+    
+}
+.aroundcarousel{
+    background-color:rgba(214, 214, 214 );
+    padding-top: 10px;
+    padding-bottom: 10px;
+    
+}
