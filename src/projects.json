@@ -49,6 +49,63 @@
       },
 
       {
+        "id": 13,
+        "name": "BidBot Auction",
+        "image": "/Images/bidbot.gif",
+        "technology": "Javascript, ReactJS, MongoDB, CSS, NodeJS, Express",
+        "github": "https://github.com/vormc2005/Project3",
+        "Link":"https://bidbot-auction.herokuapp.com/",
+        "description": "MERN application auction/online store application"
+      },
+      {
+        "id": 14,
+        "name": "Budget Application",
+        "image": "/Images/Budget_App.gif",
+        "technology": "Javascript, CSS, HTML",
+        "github": "https://github.com/vormc2005/Budget_app",
+        "Link":"https://vormc2005.github.io/Budget_app/",
+        "description": "Vanila JavaScript application wit DOM manipulation"
+      },
+      {
+        "id": 15,
+        "name": "Forkify",
+        "image": "/Images/Recipe_boss.gif",
+        "technology": "Vanilla Javascript, CSS, HTML, Webpack",
+        "github": "https://github.com/vormc2005/Recipe_Boss",
+        "Link":"https://forkify-dv.herokuapp.com/",
+        "description": "Search for recipe using search field. You may type ingredient name or dish ex 'Pizza'"
+      },
+      {
+        "id": 16,
+        "name": "GitHub User Finder",
+        "image": "/Images/Github_finder.gif",
+        "technology": "Vanilla Javascript, ReactJS, CSS, HTML",
+        "github": "https://github.com/vormc2005/GitHub_Finder",
+        "Link":"https://githubusersearchinreact.netlify.app",
+        "description": "Search for Github user by typing name or github login"
+      },
+      {
+        "id": 17,
+        "name": "Protect - Breakdown Coverage",
+        "image": "/Images/CSS_animation.gif",
+        "technology": "HTML, CSS, @keyframes animations",
+        "github": "https://github.com/vormc2005/Protect_css_lLanding_page",
+        "Link":"https://vormc2005.github.io/Protect_css_lLanding_page/",
+        "description": "Landing page with CSS animations"
+
+      }, 
+      {
+        "id": 18,
+        "name": "Movie Theater Booking interface",
+        "image": "/Images/Movie_theater.gif",
+        "technology": "HTML, CSS, Vanilla JavaScript",
+        "github": "https://github.com/vormc2005/Movie_booker",
+        "Link":"https://vormc2005.github.io/Movie_booker/",
+        "description": "Movie theater seat booking interface. Click to reserve seats, and see total cost."
+
+      }, 
+
+      {
         "id": 6,
         "name": "Busy Bot",
         "image": "/Images/busybot.gif",
@@ -110,63 +167,8 @@
         "github": "https://github.com/vormc2005/Employee_Directory_InReact",
         "Link":"https://employee-directory-dv.herokuapp.com/",
         "description": "Employee database with search made in React."
-      },
-      {
-        "id": 13,
-        "name": "BidBot Auction",
-        "image": "/Images/bidbot.gif",
-        "technology": "Javascript, ReactJS, MongoDB, CSS, NodeJS, Express",
-        "github": "https://github.com/vormc2005/Project3",
-        "Link":"https://bidbot-auction.herokuapp.com/",
-        "description": "MERN application auction/online store application"
-      },
-      {
-        "id": 14,
-        "name": "Budget Application",
-        "image": "/Images/Budget_App.gif",
-        "technology": "Javascript, CSS, HTML",
-        "github": "https://github.com/vormc2005/Budget_app",
-        "Link":"https://vormc2005.github.io/Budget_app/",
-        "description": "Vanila JavaScript application wit DOM manipulation"
-      },
-      {
-        "id": 15,
-        "name": "Forkify",
-        "image": "/Images/Recipe_boss.gif",
-        "technology": "Vanilla Javascript, CSS, HTML, Webpack",
-        "github": "https://github.com/vormc2005/Recipe_Boss",
-        "Link":"https://forkify-dv.herokuapp.com/",
-        "description": "Search for recipe using search field. You may type ingredient name or dish ex 'Pizza'"
-      },
-      {
-        "id": 16,
-        "name": "GitHub User Finder",
-        "image": "/Images/Github_finder.gif",
-        "technology": "Vanilla Javascript, ReactJS, CSS, HTML",
-        "github": "https://github.com/vormc2005/GitHub_Finder",
-        "Link":"https://githubusersearchinreact.netlify.app",
-        "description": "Search for Github user by typing name or github login"
-      },
-      {
-        "id": 17,
-        "name": "Protect - Breakdown Coverage",
-        "image": "/Images/CSS_animation.gif",
-        "technology": "HTML, CSS, @keyframes animations",
-        "github": "https://github.com/vormc2005/Protect_css_lLanding_page",
-        "Link":"https://vormc2005.github.io/Protect_css_lLanding_page/",
-        "description": "Landing page with CSS animations"
-
-      }, 
-      {
-        "id": 18,
-        "name": "Movie Theater Booking interface",
-        "image": "/Images/Movie_theater.gif",
-        "technology": "HTML, CSS, Vanilla JavaScript",
-        "github": "https://github.com/vormc2005/Movie_booker",
-        "Link":"https://vormc2005.github.io/Movie_booker/",
-        "description": "Movie theater seat booking interface. Click to reserve seats, and see total cost."
-
-      } 
+      }
+     
 
 
 
