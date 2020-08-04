@@ -44,7 +44,7 @@
         "image": "/Images/weather.gif",
         "technology": "Javascript, JQuery, HTML, CSS, Weather API service",
         "github": "https://github.com/vormc2005/WeatherHW6",
-        "Link":"https://github.com/vormc2005/WeatherHW6",
+        "Link":"https://vormc2005.github.io/WeatherHW6/",
         "description": "Weather forcasting application. Attn: for this app to work you need to list this web site as allowed web page in Insecure Content in browser settings or you may test it from VS code"
       },
 
