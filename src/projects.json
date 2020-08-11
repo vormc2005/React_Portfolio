@@ -5,10 +5,10 @@
     "id": 19,
     "name": "Rainbow Learning Center",
     "image": "/Images/Rainbow-center.gif",
-    "technology": "Javascript, HTML, CSS",
+    "technology": "Javascript, Typescript, Angular 9, HTML, CSS",
     "github": "https://github.com/vormc2005/Rainbow_kindergarden",
     "Link":"https://infallible-sammet-33ff9a.netlify.app",
-    "description": "This App generates password between 8-128 characters long"
+    "description": "Web-site for a local kindergarten. This app lets user to view information in two languages"
   },
     {
       "id": 1,
