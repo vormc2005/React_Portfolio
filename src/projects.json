@@ -10,6 +10,15 @@
     "Link":"https://infallible-sammet-33ff9a.netlify.app",
     "description": "Web-site for a local kindergarten. This app lets user to view information in two languages"
   },
+  {
+    "id": 13,
+    "name": "BidBot Auction",
+    "image": "/Images/bidbot.gif",
+    "technology": "Javascript, ReactJS, MongoDB, CSS, NodeJS, Express",
+    "github": "https://github.com/vormc2005/Project3",
+    "Link":"https://bidbot-auction.herokuapp.com/",
+    "description": "MERN application auction/online store application"
+  },
     {
       "id": 1,
       "name": "Password Generator",
@@ -44,18 +53,10 @@
         "technology": "Javascript, JQuery, HTML, CSS, Weather API service",
         "github": "https://github.com/vormc2005/WeatherHW6",
         "Link":"https://vormc2005.github.io/WeatherHW6/",
-        "description": "Weather forcasting application. Attn: for this app to work you need to list this web site as allowed web page in Insecure Content in browser settings or you may test it from VS code"
+        "description": "Weather forcasting application, that uses weather Api to display current weather and 5 days hourly weather"
       },
 
-      {
-        "id": 13,
-        "name": "BidBot Auction",
-        "image": "/Images/bidbot.gif",
-        "technology": "Javascript, ReactJS, MongoDB, CSS, NodeJS, Express",
-        "github": "https://github.com/vormc2005/Project3",
-        "Link":"https://bidbot-auction.herokuapp.com/",
-        "description": "MERN application auction/online store application"
-      },
+     
       {
         "id": 14,
         "name": "Budget Application",
@@ -84,6 +85,24 @@
         "description": "Search for Github user by typing name or github login"
       },
       {
+        "id": 6,
+        "name": "Busy Bot",
+        "image": "/Images/busybot.gif",
+        "technology": "Javascript, JQuery, HTML, CSS, TicketMaster API, MapQuest API",
+        "github": "https://github.com/vormc2005/Group1-Project-BusyBot",
+        "Link":"https://mhitchi.github.io/group01/",
+        "description": "This App show events within specified city"
+      },
+      {
+        "id": 11,
+        "name": "Pallsport",
+        "image": "/Images/travelapp.gif",
+        "technology": "Javascript, Sequelize, SQL, CSS, NodeJS, Express-Handlebars, MySQL, Airfare API",
+        "github": "https://github.com/vormc2005/Flight-Languages-Group_project2",
+        "Link":"https://young-ocean-22570.herokuapp.com/index.html",
+        "description": "This App shows information about airfare tickets, and gives you pronaunciations of common phrases"
+      },
+      {
         "id": 17,
         "name": "Protect - Breakdown Coverage",
         "image": "/Images/CSS_animation.gif",
@@ -95,7 +114,7 @@
       }, 
       {
         "id": 18,
-        "name": "Movie Theater Booking interface",
+        "name": "Movie Theater Booking",
         "image": "/Images/Movie_theater.gif",
         "technology": "HTML, CSS, Vanilla JavaScript",
         "github": "https://github.com/vormc2005/Movie_booker",
@@ -104,15 +123,7 @@
 
       }, 
 
-      {
-        "id": 6,
-        "name": "Busy Bot",
-        "image": "/Images/busybot.gif",
-        "technology": "Javascript, JQuery, HTML, CSS, TicketMaster API, MapQuest API",
-        "github": "https://github.com/vormc2005/Group1-Project-BusyBot",
-        "Link":"https://mhitchi.github.io/group01/",
-        "description": "This App show events within specified city"
-      },
+      
       {
         "id": 7,
         "name": "Liri application",
@@ -149,15 +160,7 @@
         "Link":"https://frozen-sierra-50900.herokuapp.com/",
         "description": "Order managing application using MySQL, Sequelize, etc."
       },
-      {
-        "id": 11,
-        "name": "Pallsport",
-        "image": "/Images/travelapp.gif",
-        "technology": "Javascript, Sequelize, SQL, CSS, NodeJS, Express-Handlebars, MySQL, Airfare API",
-        "github": "https://github.com/vormc2005/Flight-Languages-Group_project2",
-        "Link":"https://young-ocean-22570.herokuapp.com/index.html",
-        "description": "This App shows information about airfare tickets, and gives you pronaunciations of common phrases"
-      },
+      
       {
         "id": 12,
         "name": "React Employee Directory",

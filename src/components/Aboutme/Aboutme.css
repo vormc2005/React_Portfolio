@@ -8,6 +8,7 @@
     /* z-index: -10px; */
     animation:fadeIn;
     animation-duration: 2s;
+   
     
 }
 
@@ -18,8 +19,8 @@
     }
   }
 img.responsive-img{
-  width: 350px;
-  height: 250px;
+  width: 300px;
+  height: 200px;
   color: #111;
   border-radius: 50%;
   text-align: center;
@@ -53,6 +54,7 @@ img.responsive-img{
    border: transparent;
     
 }
+
 .aboutMe{
   text-align: justify;
 }

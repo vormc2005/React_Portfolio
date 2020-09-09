@@ -1,4 +1,4 @@
-import React from 'react'
+import React, {Fragment} from 'react'
 import "./Aboutme.css"
 import myImage from "../../Images/1 (1).jpg"
 
@@ -6,38 +6,25 @@ import myImage from "../../Images/1 (1).jpg"
 const Aboutme =()=>{
    
         return (  
-            <>
+            <Fragment>
             
-            <div className="row myinfo">
-             <div className="col s8">
-                 <div className="infocard  horizontal " id="infocard">
-                    <div className="aboutMe">
-                        <div className="image">
-                            <img className="responsive-img" src={myImage} alt="My_image"/>
-                        </div>
+            <div className="row myinfo ">
+             <div className="col-sm-8 offset-md-2" >
+                 <div className="infocard  horizontal " id="infocard">                   
+                        <img className="responsive-img" src={myImage} alt="My_image"/>                       
                
-                    <div className="card-content aboutMe" id="aboutmeParagraphs">
-                             <p>My name is Dmitry Voronov. I am a full-stack web developer. I build responsive dynamic web applications using Javascript, JQuery, ReactJS, Angular, NodeJS. I am also proficient with MongoDB and MySQL. I obtained developer skills through my experience as a freelancer and from George Washington University's' full-stack developer certification course. Also, I have a degree in Finance from George Mason University and Business Administration degree from NVCC. One of the reasons why I chose coding is that I like to solve problems and create solutions that make peoples' lives easier. I like learning new skills and pushing myself to new limits. I enjoy working on applications in teams and alone. I am proficient in developing functional web applications using Javascript and ReactJS, Angular2+ as well as in styling web applications using CSS3, Bootstrap, and Materialize frameworks.
+                    <div className="card-content aboutMe mt-4" >
+                             <p>My name is Dmitry Voronov and I am an IT professional specializing in codding solutions. I build responsive dynamic web applications using Javascript, JQuery, ReactJS, Angular, NodeJS, JAVA, and Python. I am also proficient with MongoDB and MySQL. I graduated with bachelor's degrees from GMU and KubSTU. In addition, I completed a Full-stack codding certification at George Washington University. I have a passion for solving problems through analysis and codding. I enjoy creating solutions that make peoples' lives easier. I like learning new skills and pushing myself to new limits.
 
  
-                             </p>
-                             
-                        <br></br>
-                        
-                            {/* <p>
-                            Before I chose web/software development, I managed sales operations at an automotive dealership. I spent 8 years managing and training staff, marketing inventory and creating great experience for my customers over and over again. There I have developed exceptional customer service skills, and gained years of management experience. Though I enjoyed my automotive career, I always wanted to be part of a technology field where I can apply my natural problem solving skills to solve problems of the society. 
-                            Please feel free to review my portfolio and contact me if you need help with your web application. 
-
-                           
-                            </p> */}
+                             </p>   
+                          
                             
-                    </div>                
-                
-                    </div>
+                    </div>                       
                 </div>
               </div>            
           </div>
-            </>
+            </Fragment>
         )
     }
 
