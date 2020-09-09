@@ -1,10 +1,10 @@
 #projectCard {
     background: #fff;
     border-radius: 2px;
-    height: 60vh;
+    height: 65vh;
     margin: 2vh;
     position: relative;
-    width: 35vh;
+    width: 37vh;
     box-shadow: 0 3px 6px #999, 0 3px 6px #999;
     text-align: left;
     display: inline-block;
