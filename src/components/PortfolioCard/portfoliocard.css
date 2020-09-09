@@ -15,6 +15,10 @@
     animation-duration: 2s;
 
   }
+
+  .nobulletsList{
+    list-style-type: none;
+  }
   
   #projectCard > .img-container {
     height: 40%;
@@ -67,7 +71,7 @@
 
   .content{
     height: 20vh; 
-    width: 34vh;  
+    width: 100%;  
   }
 
   .projectBtn{

@@ -113,6 +113,25 @@
 
       }, 
       {
+        "id": 10,
+        "name": "Burger Application",
+        "image": "/Images/mysql.gif",
+        "technology": "Javascript, Sequelize, SQL Workbench, CSS, NodeJS, Express-Handlebars, MySQL",
+        "github": "https://github.com/vormc2005/Employee_node_app",
+        "Link":"https://frozen-sierra-50900.herokuapp.com/",
+        "description": "Order managing application using MySQL, Sequelize, etc."
+      },
+      
+      {
+        "id": 12,
+        "name": "React Employee Directory",
+        "image": "/Images/ReactEmployeeSearch.gif",
+        "technology": "Javascript, ReactJS, AXIOS, random employee API",
+        "github": "https://github.com/vormc2005/Employee_Directory_InReact",
+        "Link":"https://employee-directory-dv.herokuapp.com/",
+        "description": "Employee database with search made in React."
+      },
+      {
         "id": 18,
         "name": "Movie Theater Booking",
         "image": "/Images/Movie_theater.gif",
@@ -150,26 +169,8 @@
         "github": "",
         "Link":"https://github.com/vormc2005/Employee_node_app",
         "description": "MySQL and NodeJS based employee information application without User Interface"
-      },
-      {
-        "id": 10,
-        "name": "Burger Application",
-        "image": "/Images/mysql.gif",
-        "technology": "Javascript, Sequelize, SQL Workbench, CSS, NodeJS, Express-Handlebars, MySQL",
-        "github": "https://github.com/vormc2005/Employee_node_app",
-        "Link":"https://frozen-sierra-50900.herokuapp.com/",
-        "description": "Order managing application using MySQL, Sequelize, etc."
-      },
-      
-      {
-        "id": 12,
-        "name": "React Employee Directory",
-        "image": "/Images/ReactEmployeeSearch.gif",
-        "technology": "Javascript, ReactJS, AXIOS, random employee API",
-        "github": "https://github.com/vormc2005/Employee_Directory_InReact",
-        "Link":"https://employee-directory-dv.herokuapp.com/",
-        "description": "Employee database with search made in React."
       }
+      
      
 
 

@@ -14,21 +14,21 @@ function PortfolioCard(props) {
       </div>
      
         <div className="row">
-          <div className="content">
-              <ul>
-                    <li>
+          <div className="col-12 content">
+              
+                    <p>
                       <strong>Name:</strong> {props.name}
-                    </li>
-                    <li>
+                    </p>
+                    <p>
                       <strong>Technology Used:</strong> {props.technology}
-                    </li>
-                    <li>
+                    </p>
+                    <p>
                       <strong>Description:</strong> {props.description}
-                    </li>
-                    <li>
+                    </p>
+                    <p>
                     <a href={props.github} target="_blank" className="gitHubLink ">GitHub Link</a>
-                    </li>
-              </ul>
+                    </p>
+             
           </div>
         </div>
         <div className="row">
