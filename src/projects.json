@@ -17,7 +17,7 @@
     "technology": "MongoDB, Express, ReactJS, NodeJS",
     "github": "https://github.com/vormc2005/MERN-Shop-our-Shop-TireShop",
     "Link":"http://198.211.103.66/",
-    "description": "Full-stack MERN application for e-commerce tire shop. This app features, log in, payment, admin, user roles and more"
+    "description": "Full-stack MERN application for e-commerce tire shop. This app features, log in, payment terminal, admin sign-in, user sign-in and more!!!"
   },
   {
     "id": 13,
