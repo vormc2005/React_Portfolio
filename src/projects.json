@@ -11,6 +11,15 @@
     "description": "Web-site for a local kindergarten. This app lets user to view information in two languages"
   },
   {
+    "id": 20,
+    "name": "Shop-Our-Shop",
+    "image": "/Images/MERN_TireShop.gif",
+    "technology": "MongoDB, Express, ReactJS, NodeJS",
+    "github": "https://github.com/vormc2005/MERN-Shop-our-Shop-TireShop",
+    "Link":"http://198.211.103.66/",
+    "description": "Full-stack MERN application for e-commerce tire shop. This app features, log in, payment, admin, user roles and more"
+  },
+  {
     "id": 13,
     "name": "BidBot Auction",
     "image": "/Images/bidbot.gif",
