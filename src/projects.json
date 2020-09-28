@@ -121,16 +121,7 @@
         "description": "Landing page with CSS animations"
 
       }, 
-      {
-        "id": 10,
-        "name": "Burger Application",
-        "image": "/Images/mysql.gif",
-        "technology": "Javascript, Sequelize, SQL Workbench, CSS, NodeJS, Express-Handlebars, MySQL",
-        "github": "https://github.com/vormc2005/Employee_node_app",
-        "Link":"https://frozen-sierra-50900.herokuapp.com/",
-        "description": "Order managing application using MySQL, Sequelize, etc."
-      },
-      
+     
       {
         "id": 12,
         "name": "React Employee Directory",
@@ -167,7 +158,7 @@
         "image": "/Images/notetakingapp.gif",
         "technology": "Javascript, NodeJS, HTML, CSS",
         "github": "https://github.com/vormc2005/Express_note-app",
-        "Link":"https://github.com/vormc2005/Express_note-app",
+        "Link":"https://ancient-lowlands-66119.herokuapp.com/",
         "description": "Sample of note taking application"
       },
       {
