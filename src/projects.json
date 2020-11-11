@@ -23,9 +23,9 @@
     "id": 13,
     "name": "BidBot Auction",
     "image": "/Images/bidbot.gif",
-    "technology": "Javascript, ReactJS, MongoDB, CSS, NodeJS, Express",
-    "github": "https://github.com/vormc2005/Project3",
-    "Link":"https://bidbot-auction.herokuapp.com/",
+    "technology": "Javascript, ReactJS, MongoDB, CSS, NodeJS, Express, deployed on DigitalOcean",
+    "github": "https://github.com/vormc2005/New_BidBot",
+    "Link":"http://157.245.135.192/",
     "description": "MERN application auction/online store application"
   },
     {
