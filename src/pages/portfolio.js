@@ -55,6 +55,7 @@ class Portfolio extends Component {
             technology={project.technology}
             description={project.description}
             github = {project.github}
+            gif ={project.gif}
             Link ={project.Link}
 
             

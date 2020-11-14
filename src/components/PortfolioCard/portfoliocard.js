@@ -1,4 +1,5 @@
 import React from "react";
+import HoverImage from 'react-hover-image'
 import "./portfoliocard.css";
 
 
@@ -10,7 +11,10 @@ function PortfolioCard(props) {
     
     <div className="card" id="projectCard">
       <div className="img-container">
-        <img className = "cardimg" alt={props.name} src={props.image} />
+        {/* <img className = "cardimg" alt={props.name} src={props.image} 
+       
+        /> */}
+        <HoverImage src={props.image} hoverSrc={props.gif}/>
       </div>
      
         <div className="row">
