@@ -1,26 +1,43 @@
-.skillslist {
-   
-    justify-content: center;
-    /* text-align: center; */
-   list-style-type: disc;
-   padding:0;
-  margin-left: 30px;
+.skillslist-left {
+   position: relative;   
+    padding:0;    
+     margin-top: 2vh;   
+    font-size: larger; 
+    font-style: italic; 
+   margin-left: 50%
+}
+.skillslist-right {
+  position: relative;   
+   padding:0;    
+    margin-top: 2vh;   
+   font-size: larger; 
+   font-style: italic; 
+  /* right: 50% */
 }
 #skillsheader{
     text-align: center;
     /* padding:5px */
 }
+.skill-div-left{
+  display: block;
+  text-align: left
+}
+.skill-div-right{
+  display: block;
+  text-align: left
+}
+
 
 
 #techcard{
-    width:90%;
-    height: 100;
+    width:100%;   
     padding: 10px;
-    /* flex-wrap: wrap; */
-    margin-left: 6.5%;
     margin-top: 0;
     margin-bottom: 0px;
+    background-color:rgba(214, 214, 214 );
+    text-align: center;
 }
+
 #techBtn{
   margin-left: auto;
   margin-right: auto;
@@ -28,7 +45,7 @@
     background-image: none;
     background-color:#1a5d97;
     border-color:#337ab7;  
-    /* margin-left: 47%;   */
+    margin-top: 5vh;  
    
 
 }
@@ -42,4 +59,28 @@
     color: cornsilk;
     text-decoration: none;
     
+}
+
+/* Examples of apps in tech card component */
+.dark-bg{
+  margin-top: 2vh;
+  height: 10vh;
+  width: 15vh;
+  background-color: black;
+  color: white;
+  text-align: center;
+  justify-content: center;
+  border-radius: 0.5vh;
+  border: 0.5vh solid white;
+  padding: 0.2vh; 
+  display: inline-flexbox;
+  margin-left: 14vh; 
+  
+
+}
+p.project-text{ 
+  display: inline-block;
+  margin-top:15%;
+  padding:0.2vh  
+ 
 }

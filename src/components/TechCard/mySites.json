@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "type":"Ecommerce applications"
+    },
+    {
+        "id": 2,
+        "type":"Informational sites"
+    },
+    {
+        "id": 3,
+        "type":"Blog applications"
+    },
+    {
+        "id": 4,
+        "type":"Dynamic forms"
+    },
+    {
+        "id": 5,
+        "type":"CRM Solutions"
+    },
+    {
+        "id": 6,
+        "type":"Chats"
+    }
+
+]

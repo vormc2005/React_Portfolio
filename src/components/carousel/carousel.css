@@ -18,44 +18,50 @@ a.carousel-control-next, .carousel-control-prev{
 }
 
 .h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
-    /* margin-bottom: 450px; */
-    /* font-weight: 500; */
+  
     line-height: 1.2;
 }
 
 .carousel.slide{
    
     background-color:black;
-    height: 550px;
+    height: 90vh;
     width:80vw;
     margin-left: 50%;
     transform: translateX(-50%);
-    /* background-color:black; */
-    /* color: springgreen; */
     padding-top: 20px;
     border-radius: 10px;
 }
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 44vh)  {
     .carousel.slide{
-      height:200px
+      height:28vh
     }
   }
+@media only screen and (max-width: 120vh) {
+    .carousel.slide{
+      height:30vh
+    }
+  }
+  
   ol.carousel-indicators{
       background-color:black;
   }
 
-/* .carousel-inner{
-    height: 520px;
-   
-} */
+
 .carousel-item{
-    height: 480px;
+    height: 85vh;
 }
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 120vh)  {
     .carousel-item{
-      height:190px
+      height:30vh
     }
 }
+@media only screen and (max-width: 44vh) {
+    .carousel.slide{
+      height:19vh
+    }
+  }
+
 .carousel-control-prev-icon{
     background-color:black;
     z-index: 5px;
