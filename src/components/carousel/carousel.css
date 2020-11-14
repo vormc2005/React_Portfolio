@@ -37,7 +37,7 @@ a.carousel-control-next, .carousel-control-prev{
 }
 @media only screen and (max-width: 600px) {
     .carousel.slide{
-      height:170px
+      height:200px
     }
   }
   ol.carousel-indicators{
@@ -53,7 +53,7 @@ a.carousel-control-next, .carousel-control-prev{
 }
 @media only screen and (max-width: 600px) {
     .carousel-item{
-      height:130px
+      height:190px
     }
 }
 .carousel-control-prev-icon{

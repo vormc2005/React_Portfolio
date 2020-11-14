@@ -18,8 +18,8 @@ const Techcard = () => {
 
     return (
         <>
-            <div className="row myinfo ">
-                <div className="col-sm-8 offset-md-2">
+            <div className=" myinfo ">
+                <div className="col-sm-12 ">
                     <div className="techcard  " id="techcard">
                         {/* <div className="row"> */}
 
