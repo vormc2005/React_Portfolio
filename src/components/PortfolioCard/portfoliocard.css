@@ -18,45 +18,65 @@
 
   .nobulletsList{
     list-style-type: none;
+   
   }
   
-  #projectCard > .img-container {
+  .img-container {
     height: 40%;
     overflow: hidden;
     text-align: center;
     /* margin-right: 8px; */
 
+
    
   }
-  #projectCard > .img-container >img {
+  .img-container >img {
     height:100%;
     width: 100%;    
    
   }
   
-  #projectCard > .content {
-   
+  .content {   
     font-size: 15px;
+    height: 100%;
+   
+    
+   
   }
   
-  #projectCard > .content > ul {
+  .content > ul {
     list-style-type: none;
     width: 100%;
+    
   
   }
   
   #projectCard > .content > ul > li {
     margin-top: 18px;
     margin-left: -15%;
+   
   }
  
 
 
-  @media (max-width: 768px) {
+  @media (max-width: 1200px) {
     img.cardimg {     
       width: 100%;
     }
+    .content{
+      font-size: 10px;
+      overflow: hidden;
+    }
+  
+    
   }
+  @media(max-height: 700px){
+    .content{
+      font-size: 10px;
+      overflow: hidden;
+    }
+  }
+
 
   .cardBtn.btn-primary{
    background-image: none;
@@ -69,10 +89,10 @@
     color: white;
   }
 
-  .content{
+  /* .content{
     height: 20vh; 
     width: 100%;  
-  }
+  } */
 
   .projectBtn{
     position: absolute;    
