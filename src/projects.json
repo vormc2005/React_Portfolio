@@ -106,7 +106,7 @@
       {
         "id": 6,
         "name": "Busy Bot",
-        "image": "/Images/Busybot (2).png",
+        "image": "/Images/BusyBot.png",
         "gif": "/Images/busybot.gif",
         "technology": "Javascript, JQuery, HTML, CSS, TicketMaster API, MapQuest API",
         "github": "https://github.com/vormc2005/Group1-Project-BusyBot",
