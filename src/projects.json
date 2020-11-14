@@ -44,7 +44,7 @@
       {
         "id": 3,
         "name": "Pig Game",
-        "image": "/Images/Pig_game.gif",
+        "image": "/Images/Pig_game1.png",
         "gif": "/Images/Pig_game.gif",
         "technology": "Javascript, HTML, CSS",
         "github": "https://github.com/vormc2005/Pig_game",
