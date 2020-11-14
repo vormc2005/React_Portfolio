@@ -1,5 +1,6 @@
 import React from 'react'
 import mySites from './mySites.json'
+import DemoCarousel from '../carousel/Carousel';
 
 import "./Techcard.css"
 import javaS from "../../Images/javascript.png"
@@ -123,6 +124,10 @@ const Techcard = () => {
                             <button className="btn btn-primary " id="techBtn">
                                 <a id="myportfoliobtn" href="/portfolio">My Portfolio</a>
                             </button>
+                        </div>
+                        
+                        <div className="mt-4">
+                        <DemoCarousel/>
                         </div>
 
                     </div>

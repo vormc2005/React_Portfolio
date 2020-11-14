@@ -5,7 +5,7 @@ import Footer from '../components/Footer/Footer';
 import Techcard from "../components/TechCard/Techcard"
 import Parallax from "../components/Parallax/Parallax"
 import projects from "../../src/projects.json"
-import DemoCarousel from '../components/carousel/Carousel';
+// import DemoCarousel from '../components/carousel/Carousel';
 import Jumbotron from '../components/jumbotron/Jumbotron'
 
 
@@ -27,9 +27,9 @@ class HomePage extends Component {
         <Parallax/>
 
           <Techcard/>          
-            <Parallax/> 
+            {/* <Parallax/>  */}
 
-          <DemoCarousel />           
+          {/* <DemoCarousel />            */}
           <Parallax/>  
 
       <Footer/>    
