@@ -3,7 +3,9 @@ import Navbar from "../components/Navbar/Navbar";
 import Footer from "../components/Footer/Footer"
 import Wrapper from "../components/Wrapper/Wrapper"
 import projects from "../../src/projects.json"
-import PortfolioCard from "../components/PortfolioCard/portfoliocard"
+import PortfolioCard from "../components/PortfolioCard/portfoliocard";
+import LazyLoad from 'react-lazyload'
+
 
 
 class Portfolio extends Component {
@@ -44,7 +46,7 @@ class Portfolio extends Component {
       {this.state.projects.filter(project => (project.name).toLowerCase().trim().includes(this.state.search.toLowerCase().trim()) || (project.technology).toLowerCase().includes(this.state.search.toLowerCase())).map(project => {
             return (
       
-        
+        <LazyLoad key={project.id} placeholder="Loading...">
           <PortfolioCard            
             id={project.id}
             key={project.id}
@@ -54,8 +56,10 @@ class Portfolio extends Component {
             description={project.description}
             github = {project.github}
             Link ={project.Link}
+
             
           />
+          </LazyLoad>
           
        
         

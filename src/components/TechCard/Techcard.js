@@ -27,7 +27,7 @@ const Techcard = () => {
                     <div className="techcard"   id="techcard">                                                       
                      <div className="row">
                         <div className="col-md-12">
-                           <h3 id="skillsheader">Technology Stack I Use</h3>
+                           <h3 id="skillsheader">My Tech Stack and Solutions</h3>
                       </div>
                     </div>
             <div className="row" >           
