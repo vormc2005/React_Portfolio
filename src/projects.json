@@ -155,19 +155,8 @@
         "Link":"https://vormc2005.github.io/Movie_booker/",
         "description": "Movie theater seat booking interface. Click to reserve seats, and see total cost."
 
-      }, 
-
+      },       
       
-      {
-        "id": 7,
-        "name": "Liri application",
-        "image": "/Images/lirigif.gif",
-        "gif": "/Images/lirigif.gif",
-        "technology": "Javascript, NodeJS, Axios, Spotify API, OMBD API, BandsInTown API",
-        "github": "https://github.com/vormc2005/liri-node-app",
-        "Link":"https://github.com/vormc2005/liri-node-app",
-        "description": "Node application without interface that uses 3 API services, which allow user to search for movies, concerts, and songs"
-      },
       {
         "id": 8,
         "name": "Note taking application",
@@ -177,20 +166,8 @@
         "github": "https://github.com/vormc2005/Express_note-app",
         "Link":"https://ancient-lowlands-66119.herokuapp.com/",
         "description": "Sample of note taking application"
-      },
-      {
-        "id": 9,
-        "name": "Team Profile Generator",
-        "image": "/Images/employee.gif",
-        "gif": "/Images/employee.gif",
-        "technology": "Javascript, NodeJS, Express, MySQL",
-        "github": "",
-        "Link":"https://github.com/vormc2005/Employee_node_app",
-        "description": "MySQL and NodeJS based employee information application without User Interface"
       }
       
-     
-
 
 
 
