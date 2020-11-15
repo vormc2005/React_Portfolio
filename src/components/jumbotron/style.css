@@ -40,7 +40,8 @@
   }
   @media only screen and (max-width: 600px) {
     .jumbotron {
-      background-image: url("./Jumbotron2.gif");
+      background-image: url("./Jumbotron2.gif") no-repeat;
+      background-size: 100%;
     }
   }
   
