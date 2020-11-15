@@ -19,11 +19,12 @@ const Jumbotron = () => {
 
   <div className="container-fluid text-white">
   <img src={myImage} className="my-image" alt="my Img" />
+  <img src="https://photos.app.goo.gl/SSn3nNKWtQ8tFJCR9" className="my-image" alt="my Img" />
 
     <h1 className="display-4">Welcome to Dmitry Voronov's portfolio site</h1>
     <p className="lead">Let me do the coding and develop apliction that fits your needs.</p>
     <hr className="my-4"></hr>
-    <p>I build responsive and dynamic web applications using Javascript, JQuery, ReactJS, Angular, NodeJS, JAVA, and Python. 
+    <p>I build responsive and dynamic web applications using Javascript, JQuery, ReactJS, Angular, NodeJS and Python. 
      </p>     
     
 
