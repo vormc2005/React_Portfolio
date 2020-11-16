@@ -80,13 +80,16 @@ background-image: linear-gradient(315deg, #2d3436 0%, #d3d3d3 74%);
   border: 0.5vh solid white;
   padding: 0.2vh; 
   display: inline-flexbox;
-  margin-left: 13.5vh; 
+  margin-left: 50%;
+  transform: translateX(-50%); 
   
 
 }
-p.project-text{ 
+p.project-text{
+  position: relative; 
   display: inline-block;
-  margin-top:15%;
+ top:50%;
+  transform: translateY(-50%);
   padding:0.2vh  
  
 }

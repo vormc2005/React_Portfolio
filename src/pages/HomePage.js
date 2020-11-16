@@ -18,7 +18,7 @@ class HomePage extends Component {
   return (
           <>
     
-    
+    <div >
       <Navbar/>
       {/* <Parallax/> */}
       <Jumbotron/>
@@ -32,7 +32,8 @@ class HomePage extends Component {
           {/* <DemoCarousel />            */}
           <Parallax/>  
 
-      <Footer/>    
+      <Footer/>  
+      </div>  
    
            </>
       );

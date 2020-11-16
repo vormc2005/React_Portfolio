@@ -26,12 +26,12 @@ const Techcard = () => {
         <>
                   
                     <div className="techcard"   id="techcard">                                                       
-                     <div className="row">
+                     <div className="row " style={{width:"99.8%"}}>
                         <div className="col-md-12">
                            <h3 id="skillsheader">My Tech Stack and Solutions</h3>
                       </div>
                     </div>
-            <div className="row" >           
+            <div className="row" style={{width:"99.8%"}}>           
                 <div className="col-md-3 skill-div-left"  >
                     <p className="skillslist-left"
                         style={{ listStyleType: "disc" }}>
@@ -69,7 +69,7 @@ const Techcard = () => {
                
                 </div>
                 <div className="col-md-6" >
-                    <div className="row" >
+                    <div className="row" style={{width:"99.8%"}}>
                 {mySites.map(mysite=>{
                     return( 
                             <div className="col-md-6" style={{marginLeft:"0vh"}}>   
@@ -120,7 +120,7 @@ const Techcard = () => {
             </div>        
         
                         
-                        <div className="row">
+                        <div className="row" style={{width:"99.8%"}}>
                             <button className="btn btn-primary " id="techBtn">
                                 <a id="myportfoliobtn" href="/portfolio">My Portfolio</a>
                             </button>
