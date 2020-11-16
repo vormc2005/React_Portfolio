@@ -4,7 +4,9 @@
      margin-top: 2vh;   
     font-size: larger; 
     font-style: italic; 
-   margin-left: 50%
+   margin-left: 50%;
+   transform: translateX(-30%);
+   
 }
 .skillslist-right {
   position: relative;   
@@ -12,7 +14,8 @@
     margin-top: 2vh;   
    font-size: larger; 
    font-style: italic; 
-  /* right: 50% */
+   margin-left: 50%;
+   transform: translateX(-30%)
 }
 #skillsheader{
     text-align: center;
@@ -81,7 +84,7 @@ background-image: linear-gradient(315deg, #2d3436 0%, #d3d3d3 74%);
   padding: 0.2vh; 
   display: inline-flexbox;
   margin-left: 50%;
-  transform: translateX(-50%); 
+  transform: translateX(-30%); 
   
 
 }
