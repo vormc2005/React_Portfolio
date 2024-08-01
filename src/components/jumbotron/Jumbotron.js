@@ -21,10 +21,10 @@ const Jumbotron = () => {
   <img src={myImage} className="my-image" alt="my Img" />
   
 
-    <h1 className="display-4">Welcome to Dmitry Voronov's portfolio site</h1>
+    <h1 className="display-4">Welcome to Dmitry Voronovs'portfolio site</h1>
     <p className="lead">Let me do the coding and develop apliction that fits your needs.</p>
     <hr className="my-4"></hr>
-    <p>I build responsive and dynamic web applications using Javascript, JQuery, ReactJS, Angular, NodeJS and Python. 
+    <p>I develop responsive and dynamic web applications and enterprise software using Javascript, JQuery, ReactJS, Angular, NodeJS, JAVA,.NET, C# and Python. 
      </p>     
     
 

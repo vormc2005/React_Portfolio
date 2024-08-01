@@ -82,17 +82,7 @@
         "github": "https://github.com/vormc2005/Budget_app",
         "Link":"https://vormc2005.github.io/Budget_app/",
         "description": "Vanila JavaScript application wit DOM manipulation"
-      },
-      {
-        "id": 15,
-        "name": "Forkify",
-        "image": "/Images/Forkify.png",
-        "gif": "/Images/Recipe_boss.gif",
-        "technology": "Vanilla Javascript, CSS, HTML, Webpack",
-        "github": "https://github.com/vormc2005/Recipe_Boss",
-        "Link":"https://forkify-dv.herokuapp.com/",
-        "description": "Search for recipe using search field. You may type ingredient name or dish ex 'Pizza'"
-      },
+      },      
       {
         "id": 16,
         "name": "GitHub User Finder",
@@ -102,27 +92,7 @@
         "github": "https://github.com/vormc2005/GitHub_Finder",
         "Link":"https://githubusersearchinreact.netlify.app",
         "description": "Search for Github user by typing name or github login"
-      },
-      {
-        "id": 6,
-        "name": "Busy Bot",
-        "image": "/Images/BusyBot.png",
-        "gif": "/Images/busybot.gif",
-        "technology": "Javascript, JQuery, HTML, CSS, TicketMaster API, MapQuest API",
-        "github": "https://github.com/vormc2005/Group1-Project-BusyBot",
-        "Link":"https://mhitchi.github.io/group01/",
-        "description": "This App show events within specified city"
-      },
-      {
-        "id": 11,
-        "name": "Pallsport",
-        "image": "/Images/Pallsport.png",
-        "gif": "/Images/travelapp.gif",
-        "technology": "Javascript, Sequelize, SQL, CSS, NodeJS, Express-Handlebars, MySQL, Airfare API",
-        "github": "https://github.com/vormc2005/Flight-Languages-Group_project2",
-        "Link":"https://young-ocean-22570.herokuapp.com/index.html",
-        "description": "This App shows information about airfare tickets, and gives you pronaunciations of common phrases"
-      },
+      },          
       {
         "id": 17,
         "name": "Protect - Breakdown Coverage",
@@ -133,18 +103,7 @@
         "Link":"https://vormc2005.github.io/Protect_css_lLanding_page/",
         "description": "Landing page with CSS animations"
 
-      }, 
-     
-      {
-        "id": 12,
-        "name": "React Employee Directory",
-        "image": "/Images/Employee-Directory.png",
-        "gif": "/Images/ReactEmployeeSearch.gif",
-        "technology": "Javascript, ReactJS, AXIOS, random employee API",
-        "github": "https://github.com/vormc2005/Employee_Directory_InReact",
-        "Link":"https://employee-directory-dv.herokuapp.com/",
-        "description": "Employee database with search made in React."
-      },
+      },          
       {
         "id": 18,
         "name": "Movie Theater Booking",
@@ -154,19 +113,9 @@
         "github": "https://github.com/vormc2005/Movie_booker",
         "Link":"https://vormc2005.github.io/Movie_booker/",
         "description": "Movie theater seat booking interface. Click to reserve seats, and see total cost."
-
-      },       
-      
-      {
-        "id": 8,
-        "name": "Note taking application",
-        "image": "/Images/notetakingapp.gif",
-        "gif": "/Images/notetakingapp.gif",
-        "technology": "Javascript, NodeJS, HTML, CSS",
-        "github": "https://github.com/vormc2005/Express_note-app",
-        "Link":"https://ancient-lowlands-66119.herokuapp.com/",
-        "description": "Sample of note taking application"
       }
+      
+    
       
 
 

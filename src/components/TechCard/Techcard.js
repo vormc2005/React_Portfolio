@@ -8,13 +8,13 @@ import angular from "../../Images/angularjs.png"
 import bootstrap from "../../Images/bootstrap.png"
 import jquery from "../../Images/jquery.png"
 import mongoDb from "../../Images/mongoDB.png"
-import mysql from "../../Images/mysql.png"
 import node from "../../Images/node.png"
 import react from "../../Images/react.png"
 import typescript from "../../Images/typescript.png"
-import xml from "../../Images/xml.png"
 import html from "../../Images/html.png"
 import css from "../../Images/css.png"
+import SQL from "../../Images/SQL.png"
+import DotNet from "../../Images/.NET.png"
 
 
 
@@ -101,8 +101,8 @@ const Techcard = () => {
                     <p className="skillslist-right"
                         style={{ listStyleType: "disc" }}>
                         <span>
-                            <img src={xml} alt="xml" style ={{maxHeight:"25px"}}/>
-                        </span> XML
+                            <img src={DotNet} alt="DotNet" style ={{maxHeight:"25px"}}/>
+                        </span> C#, .Net  
                     </p>
                     <p className="skillslist-right"
                     style={{ listStyleType: "disc" }}> <span>
@@ -110,8 +110,8 @@ const Techcard = () => {
                         </span> MongoDB</p>
                     <p className="skillslist-right"
                     style={{ listStyleType: "disc" }}> <span>
-                            <img src={mysql} alt="mysql" style ={{maxHeight:"25px"}}/>
-                        </span> MySQL</p>
+                            <img src={SQL} alt="sql" style ={{maxHeight:"25px"}}/>
+                        </span> SQL Databases</p>
                     <p className="skillslist-right"
                     style={{ listStyleType: "disc" }}> <span>
                             <img src={bootstrap} alt="bootstrap" style ={{maxHeight:"25px"}}/>
@@ -120,11 +120,11 @@ const Techcard = () => {
             </div>        
         
                         
-                        <div className="row" style={{width:"100%"}}>
+                        {/* <div className="row" style={{width:"100%"}}>
                             <button className="btn btn-primary " id="techBtn">
                                 <a id="myportfoliobtn" href="/portfolio">Click here to view my portfolio</a>
                             </button>
-                        </div>
+                        </div> */}
                         
                         <div className="mt-4">
                         <DemoCarousel/>

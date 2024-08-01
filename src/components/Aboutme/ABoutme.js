@@ -14,7 +14,7 @@ const Aboutme =()=>{
                         <img className="responsive-img" src={myImage} alt="My_image"/>                       
                
                     <div className="card-content aboutMe mt-4" >
-                             <p>I build responsive and dynamic web applications using Javascript, JQuery, ReactJS, Angular, NodeJS, JAVA, and Python. 
+                             <p>I develop responsive and dynamic web applications and software using Javascript, JQuery, ReactJS, Angular, NodeJS, JAVA,.NET, C# and Python. 
                              </p>                              
                     </div>                       
                 </div>
